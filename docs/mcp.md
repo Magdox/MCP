@@ -141,4 +141,4 @@ Authorization header, never in the URL, and does not generate or print tokens.
 The launcher does not forward HTTP transport flags. Do not expose a local
 listener through a public proxy or tunnel.
 
-See [quick setup](docs/mcp-setup.md) and [agent workflow](docs/mcp-agent-workflow.md).
+See [quick setup](mcp-setup.md) and [agent workflow](mcp-agent-workflow.md).
