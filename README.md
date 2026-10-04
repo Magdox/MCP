@@ -1,7 +1,7 @@
 # MAGDOX MCP
 
-MAGDOX v1.2 uses an authenticated private MCP bridge. The release namespace is
-`v1.2`; npm packages and semantic-version checks use `1.2.0`.
+MAGDOX v1.3 uses an authenticated private MCP bridge. The release namespace is
+`v1.3`; npm packages and semantic-version checks use `1.3.0`.
 
 MAGDOX MCP connects coding tools to your installed, licensed MAGDOX CLI.
 The private MCP executable is a protocol bridge, not a scanner or an
